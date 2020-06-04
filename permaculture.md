@@ -1,4 +1,4 @@
-# Utiliser internet
+# Regardez la vidéo!
 
 ![](http://douar.tech/dt_assets/session-2/slide-1.png)
 
